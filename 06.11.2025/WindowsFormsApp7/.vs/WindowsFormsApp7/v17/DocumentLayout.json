@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{F62EBB65-F309-43E1-9F06-A73B9ABBCF19}|WindowsFormsApp7\\WindowsFormsApp7.csproj|c:\\users\\gtmtlbta1-ogretmen\\source\\repos\\windowsformsapp7\\windowsformsapp7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F62EBB65-F309-43E1-9F06-A73B9ABBCF19}|WindowsFormsApp7\\WindowsFormsApp7.csproj|solutionrelative:windowsformsapp7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F62EBB65-F309-43E1-9F06-A73B9ABBCF19}|WindowsFormsApp7\\WindowsFormsApp7.csproj|c:\\users\\gtmtlbta1-ogretmen\\source\\repos\\windowsformsapp7\\windowsformsapp7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F62EBB65-F309-43E1-9F06-A73B9ABBCF19}|WindowsFormsApp7\\WindowsFormsApp7.csproj|solutionrelative:windowsformsapp7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -27,6 +31,40 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-06T11:57:47.236Z",
               "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "d1930428-019b-4757-a121-1fbb4d8505c5",
+        "Display": 0,
+        "X": 428,
+        "Y": 235,
+        "Width": 929,
+        "Height": 546,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\GTMTLbta1-ogretmen\\source\\repos\\WindowsFormsApp7\\WindowsFormsApp7\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp7\\Form1.cs",
+              "ToolTip": "C:\\Users\\GTMTLbta1-ogretmen\\source\\repos\\WindowsFormsApp7\\WindowsFormsApp7\\Form1.cs",
+              "RelativeToolTip": "WindowsFormsApp7\\Form1.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAiwC0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T12:12:14.792Z",
+              "EditorCaption": ""
             }
           ]
         }

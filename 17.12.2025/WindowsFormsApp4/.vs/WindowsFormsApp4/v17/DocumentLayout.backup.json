@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\GTMTLbta1-ogretmen\\source\\repos\\WindowsFormsApp4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96BAE004-AF7D-4EED-AD1B-F80547DD46DB}|WindowsFormsApp4\\WindowsFormsApp4.csproj|c:\\users\\gtmtlbta1-ogretmen\\source\\repos\\windowsformsapp4\\windowsformsapp4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{96BAE004-AF7D-4EED-AD1B-F80547DD46DB}|WindowsFormsApp4\\WindowsFormsApp4.csproj|solutionrelative:windowsformsapp4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96BAE004-AF7D-4EED-AD1B-F80547DD46DB}|WindowsFormsApp4\\WindowsFormsApp4.csproj|c:\\users\\gtmtlbta1-ogretmen\\source\\repos\\windowsformsapp4\\windowsformsapp4\\dersler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96BAE004-AF7D-4EED-AD1B-F80547DD46DB}|WindowsFormsApp4\\WindowsFormsApp4.csproj|solutionrelative:windowsformsapp4\\dersler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96BAE004-AF7D-4EED-AD1B-F80547DD46DB}|WindowsFormsApp4\\WindowsFormsApp4.csproj|c:\\users\\gtmtlbta1-ogretmen\\source\\repos\\windowsformsapp4\\windowsformsapp4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96BAE004-AF7D-4EED-AD1B-F80547DD46DB}|WindowsFormsApp4\\WindowsFormsApp4.csproj|solutionrelative:windowsformsapp4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96BAE004-AF7D-4EED-AD1B-F80547DD46DB}|WindowsFormsApp4\\WindowsFormsApp4.csproj|c:\\users\\gtmtlbta1-ogretmen\\source\\repos\\windowsformsapp4\\windowsformsapp4\\ogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96BAE004-AF7D-4EED-AD1B-F80547DD46DB}|WindowsFormsApp4\\WindowsFormsApp4.csproj|solutionrelative:windowsformsapp4\\ogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96BAE004-AF7D-4EED-AD1B-F80547DD46DB}|WindowsFormsApp4\\WindowsFormsApp4.csproj|c:\\users\\gtmtlbta1-ogretmen\\source\\repos\\windowsformsapp4\\windowsformsapp4\\kisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96BAE004-AF7D-4EED-AD1B-F80547DD46DB}|WindowsFormsApp4\\WindowsFormsApp4.csproj|solutionrelative:windowsformsapp4\\kisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dersler.cs",
+              "DocumentMoniker": "C:\\Users\\GTMTLbta1-ogretmen\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Dersler.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\Dersler.cs",
+              "ToolTip": "C:\\Users\\GTMTLbta1-ogretmen\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Dersler.cs",
+              "RelativeToolTip": "WindowsFormsApp4\\Dersler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T10:51:14.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\GTMTLbta1-ogretmen\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\Form1.cs",
+              "ToolTip": "C:\\Users\\GTMTLbta1-ogretmen\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Form1.cs*",
+              "RelativeToolTip": "WindowsFormsApp4\\Form1.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T10:37:27.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ogrenci.cs",
+              "DocumentMoniker": "C:\\Users\\GTMTLbta1-ogretmen\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\ogrenci.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\ogrenci.cs",
+              "ToolTip": "C:\\Users\\GTMTLbta1-ogretmen\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\ogrenci.cs",
+              "RelativeToolTip": "WindowsFormsApp4\\ogrenci.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T10:31:05.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "kisi.cs",
+              "DocumentMoniker": "C:\\Users\\GTMTLbta1-ogretmen\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\kisi.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\kisi.cs",
+              "ToolTip": "C:\\Users\\GTMTLbta1-ogretmen\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\kisi.cs",
+              "RelativeToolTip": "WindowsFormsApp4\\kisi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T10:28:57.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\GTMTLbta1-ogretmen\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\Form1.cs",
+              "ToolTip": "C:\\Users\\GTMTLbta1-ogretmen\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Form1.cs [Tasar\u0131m]*",
+              "RelativeToolTip": "WindowsFormsApp4\\Form1.cs [Tasar\u0131m]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T10:23:34.607Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
